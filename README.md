@@ -2,6 +2,8 @@
 
 A breath-controlled game where you fly a bird using your actual breathing.
 
+![vlc_uqHNcb0Iw7](https://user-images.githubusercontent.com/45577275/121317945-10e1f880-c90b-11eb-9408-5ba6035d8e62.png)
+
 **Built for:** Graduation project  
 **Control method:** Arduino + wind sensor + respiration belt  
 
@@ -42,10 +44,3 @@ Unity game engine receives real-time sensor data from Arduino via serial connect
 - **Breathwing**
 
 This was a graduation project exploring alternative game input methods and embodied interaction design.
-
-
-# Media
-
-![vlc_uqHNcb0Iw7](https://user-images.githubusercontent.com/45577275/121317945-10e1f880-c90b-11eb-9408-5ba6035d8e62.png)
-
-
