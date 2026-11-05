@@ -2,8 +2,8 @@
 
 A breath-controlled game where you fly a bird using your actual breathing.
 
-**Built for:** Graduation project  
-**Control method:** Arduino + wind sensor + respiration belt  
+**Built for:** Graduation project exploring alternative game input methods
+**Control method:** Arduino + wind sensor + respiration belt
 
 ## What it does
 
@@ -23,9 +23,12 @@ The original concept was a full narrative game that gradually builds breathing a
 
 What remains is that core — a meditative flying experience where your breathing **is** the controller.
 
-## Technical approach
+## Tech stack
 
-Unity game engine receives real-time sensor data from Arduino via serial connection. The bird's physics respond directly to breath patterns, creating a feedback loop between your body and the screen.
+- **Unity** (game engine)
+- **Arduino** (sensor interface)
+- **C#** (game logic)
+- **Serial communication** (Arduino → Unity data stream)
 
 ## What I learned
 
@@ -35,17 +38,4 @@ Unity game engine receives real-time sensor data from Arduino via serial connect
 
 ---
 
-**Alternative names considered:**
-- **Windborne** (current choice — poetic, suggests both breath and flight)
-- **Aeris** (from Latin "aer" = air)
-- **Zephyr** (gentle breeze)
-- **Breathwing**
-
-This was a graduation project exploring alternative game input methods and embodied interaction design.
-
-
-# Media
-
-![vlc_uqHNcb0Iw7](https://user-images.githubusercontent.com/45577275/121317945-10e1f880-c90b-11eb-9408-5ba6035d8e62.png)
-
-
+This was a graduation project exploring embodied interaction and alternative game control systems.
